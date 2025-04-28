@@ -17,7 +17,7 @@
 <div align="center">
     <h3>Sobre mim:</h3>
     <ul>
-        <li>👩‍🎓 Desenvolvedora Fullstack formada - <strong><a href="https://unifatecie.edu.br/" target="_blank">Labenu</a></strong></li>
+        <li>👩‍🎓 Desenvolvedora Fullstack formada </li>
         <li>👩‍💻 Estudante de Engenharia de Software - <strong><a href="https://unifatecie.edu.br/" target="_blank">Unifatece</a></strong></li>
         <li>💻 Estudante de Montagem e manutenção de computadores e notebook - <strong>Elotec</strong>.</li>
         <li>👩‍🏫 Professora de Robótica e Programação para adultos e crianças.</li>
