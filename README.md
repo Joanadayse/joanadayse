@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div align="center">
+<div style="list-style-type: none;">
     <h3>Sobre mim:</h3>
     <ul>
         <li>👩‍🎓 Desenvolvedora Fullstack formada </li>
