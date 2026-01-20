@@ -20,7 +20,7 @@
         <li>👩‍🎓 Desenvolvedora Fullstack </li>
         <li>👩‍💻 Estudante de Engenharia de Software - <strong><a href="https://unifatecie.edu.br/" target="_blank">Unifatece</a></strong></li>
         <li>💻 Montagem e manutenção de computadores e notebook - <strong>Elotec</strong>.</li>
-        <li>👩‍🏫 Ex Professora de Robótica e Programação para adultos e crianças.</li>
+        <li>👩‍🏫 Ex Professora de Robótica e Programação para adultos e crianças - <strong><a href="https://www.codigokid.com.br/" target="_blank">Codigo Kid</a></strong></li>
     </ul>
     <br>
     <a href="https://instagram.com/joana_dayse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
