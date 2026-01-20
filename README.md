@@ -17,10 +17,10 @@
 <div style="list-style-type: none;">
     <h3>Sobre mim:</h3>
     <ul>
-        <li>👩‍🎓 Desenvolvedora Fullstack formada </li>
+        <li>👩‍🎓 Desenvolvedora Fullstack </li>
         <li>👩‍💻 Estudante de Engenharia de Software - <strong><a href="https://unifatecie.edu.br/" target="_blank">Unifatece</a></strong></li>
-        <li>💻 Estudante de Montagem e manutenção de computadores e notebook - <strong>Elotec</strong>.</li>
-        <li>👩‍🏫 Professora de Robótica e Programação para adultos e crianças.</li>
+        <li>💻 Montagem e manutenção de computadores e notebook - <strong>Elotec</strong>.</li>
+        <li>👩‍🏫 Ex Professora de Robótica e Programação para adultos e crianças.</li>
     </ul>
     <br>
     <a href="https://instagram.com/joana_dayse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
