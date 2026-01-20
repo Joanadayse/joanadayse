@@ -17,7 +17,7 @@
 <div style="list-style-type: none;">
     <h3>Sobre mim:</h3>
     <ul>
-        <li>👩‍🎓 Desenvolvedora Fullstack </li>
+        <li>👩‍🎓 Desenvolvedora Fullstack - <strong><a href="https://www.codigokid.com.br/" target="_blank">EQTLAB</a></strong>  </li>
         <li>👩‍💻 Estudante de Engenharia de Software - <strong><a href="https://unifatecie.edu.br/" target="_blank">Unifatece</a></strong></li>
         <li>💻 Montagem e manutenção de computadores e notebook - <strong>Elotec</strong>.</li>
         <li>👩‍🏫 Ex Professora de Robótica e Programação para adultos e crianças - <strong><a href="https://www.codigokid.com.br/" target="_blank">Codigo Kid</a></strong></li>
